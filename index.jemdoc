@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU}{index.html}
+= Max Simchowitz
+
+~~~
+{}{img_left}{prof.jpg}{Max Simchowitz}{250}(250}
+Max Simchowitz \n
+msimchow(AT)berkeley(DOT)edu\n
+[maxs_cv.pdf CV]\n
+[https://scholar.google.com/citations?user=QhG_7egAAAAJ&hl=en Google Scholar profile]\n
+~~~
+#~~~
+#== {{<font color="red">News</font>}}
+#*I am a 4th year PhD student].* 
+#~~~
+== About Me
+I am a fourth year PhD student in the EECS department at UC Berkeley, co-adivsed by [http://www.eecs.berkeley.edu/~brecht/ Ben Recht] and [http://www.cs.berkeley.edu/~jordan/ Michael Jordan]. I am supported by an NSF GRFP grant and a Berkeley Fellowship. Previously, I recieved a BA in Mathematics at Princeton University, where I was fortunate enough to do research with [https://www.cs.princeton.edu/~arora/ Sanjeev Arora] and [http://www.cs.columbia.edu/~blei/ David Blei] (who taught at Princeton at the time). 
+
+My research interests are in *machine learning*, *active learning*, *optimization* and *control*. Currently, I'm interested in [https://arxiv.org/pdf/1802.08334.pdf provable bounds for learning in time series], active learning and experiment design for learning and classification, and the [https://arxiv.org/abs/1804.01221 connections between sequential inference and the average-case complexity of optimization problems]. P
+
+== Teaching
+
+*CS 189/289A*, Introduction to Machine Learning, UC Berkeley Fall 2018 (TA). 
+
+*EE227C*, [https://ee227c.github.io/ Convex Optimization and Approximation], UC Berkeley, Spring 2018 (TA). [https://ee227c.github.io/notes/ee227c-notes.pdf Link for course notes]. 
+
+

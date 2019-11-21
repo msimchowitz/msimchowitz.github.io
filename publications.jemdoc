@@ -1,0 +1,48 @@
+# jemdoc: menu{MENU}{publications.html}
+=Publications
+
+== Preprints/Under Review
+- [https://arxiv.org/abs/1807.09386 On the Randomized Complexity of Minimizing a Convex Quadratic Function]\n *Max Simchowitz*. /Arxiv/, 2018. 
+- [https://arxiv.org/abs/1808.04523 Active Learning for Convex Regression] \n
+*Max Simchowitz*, Kevin Jamieson, Jordan W. Suchow, Thomas L. Griffiths. /Arxiv/, 2018. \n
+- [https://arxiv.org/abs/1710.07406 First-order Methods Almost Always Avoid Saddle Points ] \n
+Jason D. Lee, Ioannis Panageas, Georgios Piliouras, *Max Simchowitz*, Michael I. Jordan, Benjamin Recht. /Under Review/.
+
+== Journal and Conference Publications
+- [https://arxiv.org/pdf/1802.08334 Learning Without Mixing: Towards A Sharp Analysis of Linear System Identification] \n
+*Max Simchowitz*, Horia Mania, Stephen Tu, Benjamin Recht, Michael I. Jordan. /COLT/, 2018.\n
+- [https://arxiv.org/abs/1803.04383 Delayed Impact of Fair Machine Learning]\n
+Lydia T. Liu, Sarah Dean, Esther Rolf, *Max Simchowitz*, Moritz Hardt. *Best Paper Award*, /ICML/, 2018.
+- [https://arxiv.org/abs/1804.01221 Tight Query Complexity Lower Bounds for PCA via Finite Sample Deformed Wigner Law] \n
+*Max Simchowitz*, Ahmed El Alaoui, Benjamin Recht.  /STOC/, 2018. \n
+- [https://arxiv.org/abs/1801.01253 Approximate Ranking from Pairwise Comparisons ] \n 
+Reinhard Heckel, *Max Simchowitz*, Kannan Ramchandran, Martin J. Wainwright. /AISTATS/, 2018. \n 
+- [https://arxiv.org/abs/1702.05186 The Simulator: Towards a Richer Understanding of Adaptive Sampling in the Moderate-Confidence Regime] \n
+*Max Simchowitz*,  Kevin Jamieson, and Benjamin Recht. /COLT/, 2017. \n
+- [http://arxiv.org/abs/1603.02752 Best-of-K Bandits]  \n
+*Max Simchowitz*, Kevin Jamieson, and Benjamin Recht. /COLT/, 2016. \n
+- [http://arxiv.org/abs/1602.04915 Gradient Descent Converges to Minimizers].  \n
+Jason D. Lee, *Max Simchowitz*, Michael I. Jordan, and Benjamin Recht. /COLT/, 2016. \n
+- [http://arxiv.org/abs/1507.03566 Low-rank Solutions of Linear Matrix Equations via Procrustes Flow.] \n
+Stephen Tu, Ross Boczar, *Max Simchowitz*, Mahdi Soltanolkotabi, Benjamin Recht. /ICML/, 2016. \n
+
+
+
+== Tech Reports and Other Things
+- [GradientsForLoss.pdf Gradients for the Loss! Towards Provable Gradient Algorithms for Non-Convex Problems] \n
+Fotis Iliopoulos, Vrettos Moulos, Vaishaal Shankar, *Max Simchowitz* \n
+Survey of First Order Methods for Non-Convex Optimization Problems \n
+Class Project for [http://www.eecs.berkeley.edu/~elghaoui/Teaching/EE227BT/ EE22BT], UC Berkeley, Fall 2015. 
+- [SeniorThesis.pdf Dictionary Learning and Anti-Concentration] \n
+*Max Simchowitz* \n
+Undergraduate Senior Thesis, advised by [https://www.cs.princeton.edu/~arora/Sanjeev Sanjeev Arora], Princeton University, Spring 2015 .\n
+- [ProbNotes.pdf Notes on Probability Theory, Random Matrices, and the Marchenko Pastur Law] \n
+*Max Simchowitz* \n
+Notes for High Dimensional Statistics Junior Seminar, taught by [https://web.math.princeton.edu/~amits/ Amit Singer], Princeton University, Spring 2014. \n
+- [https://github.com/dmrd/mad_topic_model Authorship Detection using Supervised Topic Models (github)\n]
+David Dohan, Charles Marsh, Shubhro Saha, *Max Simchowitz*.\n
+Class Project for Princeton COS 424 (Interacting with Data), taught by [http://www.cs.columbia.edu/~blei/ David Blei], Princeton University, Spring 2014.
+- [JuniorPaper.pdf Zero-Inflated Poisson for Recommendation]\n
+*Max Simchowitz*\n
+Junior Independent Work, Fall 2013. Advised by [http://www.cs.columbia.edu/~blei/ David Blei]
+
