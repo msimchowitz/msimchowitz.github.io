@@ -1,0 +1,24 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+{% include base_path %}
+
+<!--
+{% for post in site.teaching reversed %}
+  {% unless post.isOld %}
+    {% include archive-single.html %}
+  {% endunless %}
+{% endfor %}-->
+
+
+<h3>Older Teaching</h3>
+
+{% for post in site.teaching reversed %}
+  {% if post.isOld %}
+  	{% include old_teaching.html %}
+  {% endif %}
+{% endfor %}
