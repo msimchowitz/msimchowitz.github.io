@@ -2,7 +2,7 @@
 title: Improper Learning for Nonstochastic Control
 collection: publications
 category: older
-authors: <b>Max Simchowitz</b>, Karan Singh, Elad Hazan.
+authors: <b>Max Simchowitz</b>, Karan Singh, Elad Hazan
 venue: 'COLT'
 year: 2020
 selected: true
