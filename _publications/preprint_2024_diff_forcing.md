@@ -6,7 +6,7 @@ authors: "Boyuan Chen, Diego Marti Monso, Yilun Du, <b>Max Simchowitz</b>, Russ 
 venue: 'ArXiv Preprint'
 year: 2024
 selected: true
-paperurl: 'https://arxiv.org/abs/2407.01392'
+paperurl: 'https://boyuan.space/diffusion-forcing/'
 ---
 
 

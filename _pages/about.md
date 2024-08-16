@@ -9,7 +9,7 @@ redirect_from:
 
 ## News
 
-I'll be joining the Machine Learning Department at Carnegie Mellon University, beginning in January 2025! And, accordingly, <span style="color:#C41230">**I am  actively recruiting students applying for PhD programs this year to begin in Fall of 2025!**</span> See below for my own research interests, and for what I'm looking for in prospective students.
+I'll be joining the [Machine Learning Department](https://ml.cmu.edu) at Carnegie Mellon University, beginning in January 2025! And, accordingly, <span style="color:#C41230">**I am  actively recruiting students applying for PhD programs this year to begin in Fall of 2025!**</span> See below for my own research interests, and for what I'm looking for in prospective students.
 
 
 ## Research Interests
