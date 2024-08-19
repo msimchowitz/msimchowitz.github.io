@@ -22,7 +22,7 @@ My current interests span the gamut from mathematical to practical. But all of m
 
 The best way to work with me is to *apply to a Masters or PhD program in the School of Computer Science at Carnegie Mellon*; I will recruit mostly from the [Machine Learning Department](https://ml.cmu.edu) and [Robotics Institue](https://ri.cmu.edu) PhD applications. I'm particularly excited about students who love to think deeply and hatch truly new (sometimes crazy) ideas, and am looking for candidates across the theory-to-practice spectrum. 
 An ideal applicant should come in with at least one core strength (e.g. mathematical problem solving, software engineering,  deep learning research), and be eager to develop other abilities as the PhD continues.
-I strongly encourage students who come from a diverse set of backgrounds to apply, including racial, gender,   sexual and religious identities, political beliefs, socioeconomic and disability statuses, and non-traditional educational/professional paths. *Unfortunately, I am not able to take on research interns who are in high school, or are undergraduates at institutions other than CMU, at this time. For the latter category, please apply to a CMU Masters/PhD!*
+I strongly encourage students who come from a diverse set of backgrounds to apply, including racial, gender,   sexual and religious identities, political beliefs, socioeconomic and disability statuses, and non-traditional educational/professional paths. *Unfortunately, I am not able to take on research interns who are in high school, or are undergraduates at institutions other than CMU, at this time. In you belong to the latter category, please apply to a CMU Masters/PhD!*
 
 ## Selected Publications
 
