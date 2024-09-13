@@ -15,7 +15,7 @@ I'll be joining the [Machine Learning Department](https://ml.cmu.edu) at Carnegi
 ## Research Interests
 
 My research focuses on learning in sequential, interactive, and dynamic settings. This includes everything from reinforcement learning, to prediction in control systems, to robotic agents. At the moment, I'm very excited about how large AI models might change how we think about these problems. For example, how do [generative model architectures like diffusion models enable robots to learn general behaviors](https://arxiv.org/abs/2307.14619)? Or how can we develop new [ deep learning methods for world modeling, video prediction, decision making](https://boyuan.space/diffusion-forcing/) and more? And might [certain types of deep learning models be able to leverage diverse training experience to explore their environments](https://arxiv.org/abs/2409.00588)
-)? 
+? 
 
 My current interests span the gamut from mathematical to practical. But all of my research is informed by years thinking like a theorist; this research ranged broadly across topics in adaptive sampling, multi-arm bandits, complexity of convex and non-convex optimization,  reinforcement learning, learning in linear and nonlinear dynamical systems, and fairness in machine learning.  
 
