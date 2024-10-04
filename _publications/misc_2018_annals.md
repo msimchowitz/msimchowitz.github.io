@@ -1,6 +1,6 @@
 ---
 title: "Adaptive Sampling for Convex Regression"
-collection: publications
+collection: misc
 category: preprint
 authors: "<b>Max Simchowitz</b>, Kevin Jamieson, Jordan W. Suchow, Thomas L. Griffiths"
 venue: 'Formerly R&R at Annals of Statistics'
