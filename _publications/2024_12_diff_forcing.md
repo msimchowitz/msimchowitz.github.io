@@ -1,7 +1,7 @@
 ---
 title: "Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion"
 collection: publications
-category: preprint
+category: recent24
 authors: "Boyuan Chen, Diego Marti Monso, Yilun Du, <b>Max Simchowitz</b>, Russ Tedrake, Vincent Sitzmann"
 venue: 'Neurips'
 year: 2024

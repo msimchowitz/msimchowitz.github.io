@@ -83,6 +83,8 @@ publication_category:
     title: 'Selected Publications'
   preprint:
     title: 'Preprints'
+  recent25:
+    title: '2025'
   recent24:
     title: '2024'
   recent23:
