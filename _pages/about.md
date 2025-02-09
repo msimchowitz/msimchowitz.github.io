@@ -9,7 +9,7 @@ redirect_from:
 
 ## News
 
-I'll be joining the [Machine Learning Department](https://ml.cmu.edu) at Carnegie Mellon University, beginning in January 2025! And, accordingly, <span style="color:#C41230">**I am  actively recruiting students applying for PhD programs this year to begin in Fall of 2025!**</span> See below for my own research interests, and for what I'm looking for in prospective students.
+I just joined the [Machine Learning Department](https://ml.cmu.edu) at Carnegie Mellon University in January 2025! See below for my own research interests, and for what I'm looking for in prospective students.
 
 
 ## Research Interests
@@ -23,7 +23,11 @@ My current interests span the gamut from mathematical to practical. But all of m
 
 The best way to work with me is to *apply to a Master's or PhD program in the School of Computer Science at Carnegie Mellon*; I will recruit mostly from the [Machine Learning Department](https://ml.cmu.edu) and [Robotics Institue](https://ri.cmu.edu) PhD applications. I'm particularly excited about students who love to think deeply and hatch truly new (sometimes crazy) ideas, and am looking for candidates across the theory-to-practice spectrum. 
 An ideal applicant should come in with at least one core strength (e.g. mathematical problem solving, software engineering,  deep learning research), and be eager to develop other abilities as the PhD continues.
-I strongly encourage students who come from a diverse set of backgrounds to apply, including racial, gender,   sexual and religious identities, political beliefs, socioeconomic and disability statuses, and non-traditional educational/professional paths. *Unfortunately, I am not able to take on research interns who are in high school, or who are undergraduates/Master's students at institutions other than CMU, at this time. If you belong to the latter category, please apply to a CMU Master's/PhD!*
+I strongly encourage students who come from a diverse set of backgrounds to apply, including racial, gender,   sexual and religious identities, political beliefs, socioeconomic and disability statuses, and non-traditional educational/professional paths. 
+
+In exceptional circumstances, I am also happy advise visiting student researchers. However, my strong preference is to work with students who are  are undergraduates/Master's students at CMU, at this time, or who are PhD students either at CMU or at other institutions. 
+
+**Important:** If you are interested in a research opportunity with me, and I do not respond, you may send a follow up email after waiting **at least two weeks** after the first email was sent. **Do not** send a third follow up email, or else I may block your email address. This policy is necessary to manage the sheer volume of requests that I receive.   
 
 
 
