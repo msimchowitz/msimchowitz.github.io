@@ -6,5 +6,5 @@ authors: "<b>Max Simchowitz</b>, Daniel Pfrommer, Ali Jadbabaie"
 venue: 'preprint'
 year: 2025
 selected: true
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2503.09722'
 ---
