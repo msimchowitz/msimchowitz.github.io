@@ -37,7 +37,9 @@
     {% endif %}
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
     {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}}. {% endif %}
-    {% if post.slides %}<a href="{{ post.slides }}" target="_blank" rel="noopener noreferrer">Slides</a>
+    {% if post.slides %}<a href="{{ post.slides }}" target="_blank" rel="noopener noreferrer">Slides</a>.
+    {% endif %}
+    {% if post.video %}<a href="{{ post.video }}" target="_blank" rel="noopener noreferrer">Video</a>.
     {% endif %}
       {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
 
