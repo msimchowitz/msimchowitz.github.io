@@ -31,8 +31,10 @@
 
    <font size = "-0"><a href="{{post.paperurl}}">{{title}}</a> <p style="margin:-2px;">{{post.authors}}. <i>{{post.venue}}</i>, 
       <font color=#C41230><b>{{post.award}}</b></font>
-    {{post.year}}.<br/></font></p ><p style="margin:10px;"></p>
-    
+    {{post.year}}.
+    {% if post.slides %}<a href="{{ post.slides }}" target="_blank" rel="noopener noreferrer">Slides</a>.
+    {% endif %}
+    <br/></font></p ><p style="margin:10px;"></p>
 
   </article>
 </div>

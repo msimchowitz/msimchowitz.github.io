@@ -5,6 +5,6 @@ category: preprint
 authors: "Thomas Zhang, Daniel Pfrommer, Nikolai Matni, <b>Max Simchowitz</b>"
 venue: 'Under Submission'
 year: 2025
-selected: false
+selected: true
 paperurl: 'https://arxiv.org/abs/2507.09061'
 ---
