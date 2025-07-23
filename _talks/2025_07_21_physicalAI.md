@@ -6,6 +6,7 @@ venue: "SFU@ICML Workshop, July 2025"
 date: 2025-07-21
 location: "Vancouver, BC, Canada"
 slides: "/files/talks/25_07_physical_ai.pdf"
+venuesite: "https://sites.google.com/view/sfu-at-icml-2025/sfuicml2025"
 abstract: "AI has seem tremendous advances in discrete and symbolic reasoning. And yet, reliable AI in the physical world - from robotics, to autonomous driving, to accurate weather prediction to fully automated smart grid - still pose major challenges. 
 
 Beyond pragmatic challenges like the availability of data and the costs of operating on  physical hardware, this talk will argue that there are unique and fundamental challenges when getting machine learning methods to work on physical systems. Using robotic imitation learning as a didactic example, we will demonstrate mathematical results that reveal error propagation through dynamic environments can lead to exponentially greater data requirements than what we might expect in discrete domains. 
