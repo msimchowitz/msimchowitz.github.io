@@ -1,5 +1,5 @@
 ---
-title: "Why We Chunk our Actions (and other curiosities of modern robot learning)"
+title: "Why We Chunk Our Actions (and other curiosities of modern robot learning)"
 collection: talks
 type: "Talk"
 upcoming: true
