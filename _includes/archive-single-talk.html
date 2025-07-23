@@ -46,6 +46,8 @@
     {% endif %}
     {% if post.video %}<a href="{{ post.video }}" target="_blank" rel="noopener noreferrer">Video</a>.
     {% endif %}
+    {% if post.venuesite %}<a href="{{ post.venuesite }}" target="_blank" rel="noopener noreferrer">Venue Website</a>.
+    {% endif %}
       {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
 
   
