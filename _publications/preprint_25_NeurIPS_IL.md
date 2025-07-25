@@ -1,4 +1,4 @@
----
+<!--
 title: "Imitation Learning in Continuous Action Spaces: Mitigating Compounding Error without Interaction"
 collection: publications
 category: preprint
@@ -8,3 +8,4 @@ year: 2025
 selected: true
 paperurl: 'https://arxiv.org/abs/2507.09061'
 ---
+-->
