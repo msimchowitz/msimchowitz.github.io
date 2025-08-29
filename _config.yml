@@ -25,8 +25,8 @@ author:
   name             : "Max Simchowitz"
   pronouns         : #"he/him"  
   bio              : "Assistant Professor, Machine Learning Department @CMU"
-  location         : "GHC 8004"
   employer         : "Carnegie Mellon University"
+  location         : "GHC 8004"
   employer-url     : "https://www.ml.cmu.edu/"
   uri              : # URL
   email            : "msimchow (at) andrew.cmu.edu" 
