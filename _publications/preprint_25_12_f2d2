@@ -1,0 +1,11 @@
+---
+title: "Joint Distillation for Fast Likelihood Evaluation and Sampling in Flow-based Models"
+collection: publications
+category: preprint
+authors: "Xinyue Ai, Yutong He, Albert Gu, Ruslan Salakhutdinov, J Zico Kolter, Nicholas Matthew Boffi, <b>Max Simchowitz</b>"
+venue: 'arXiv'
+year: 2025
+selected: false
+paperurl: 'https://arxiv.org/abs/2512.02636'
+arxivurl: 'https://arxiv.org/pdf/2512.02636'
+---

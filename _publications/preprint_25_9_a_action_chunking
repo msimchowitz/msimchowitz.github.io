@@ -1,0 +1,12 @@
+---
+title: "Action Chunking and Exploratory Data Collection Yield Exponential Improvements in Behavior Cloning for Continuous Control"
+collection: publications
+category: preprint
+authors: "Thomas T. Zhang, Daniel Pfrommer, Chaoyi Pan, Nikolai Matni, <b>Max Simchowitz</b>"
+venue: 'arXiv'
+year: 2025
+selected: true
+paperurl: 'https://arxiv.org/abs/2507.09061'
+arxivurl: 'https://arxiv.org/pdf/2507.09061'
+website: 'https://simchowitzlabpublic.github.io/action-chunking-preprint/'
+---

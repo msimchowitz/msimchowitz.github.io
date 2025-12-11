@@ -5,7 +5,7 @@ category: older
 authors: <b>Max Simchowitz</b>, Karan Singh, Elad Hazan
 venue: 'COLT'
 year: 2020
-selected: true
+selected: false
 paperurl: 'https://arxiv.org/abs/2001.09254'
 ---
 

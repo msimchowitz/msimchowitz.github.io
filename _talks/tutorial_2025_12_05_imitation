@@ -1,12 +1,15 @@
 ---
 title: "Tutorial: Foundations of Imitation Learning: From Language Modeling to Continuous Control"
 collection: talks
-upcoming: true
+upcoming: false
 type: "Tutorial"
 permalink:  /tutorials/2025-12-05-imitation
 venue: "NeurIPS"
 date: 2025-12-05
 copresenters: "Adam Block, Dylan Foster"
 location: "San Diego, CA"
+slides: "https://drive.google.com/file/u/1/d/1-HywkCGl6IdsryunSbUo_iDBtwHLE0r3/view?usp=sharing"
+venuesite: "https://dylanfoster.net/il-tutorial/"
+video: "https://neurips.cc/virtual/2025/loc/san-diego/109590"
 ---
 
